@@ -1,4 +1,7 @@
-# Codingly.io: Base Serverless Framework Template
+# serverless-challenge
+Project created to Stefanini NodeJS developer position challenge.
+
+## Codingly.io: Base Serverless Framework Template
 
 https://codingly.io
 
